@@ -1,0 +1,19 @@
+{
+  "name": "@shareek/calculator",
+  "version": "1.1.1",
+  "description": "add, sub, mul, div, mod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shareek81/calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shareek81/calculator/issues"
+  },
+  "homepage": "https://github.com/Shareek81/calculator#readme"
+}
